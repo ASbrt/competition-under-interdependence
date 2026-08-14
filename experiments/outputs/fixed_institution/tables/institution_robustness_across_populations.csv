@@ -1,0 +1,12 @@
+condition,condition_label,institution_family,institution_family_label,mean_final_total_score,worst_population_score,best_population_score,standard_deviation_across_populations,population_score_range
+bilateral_trade,Bilateral,decentralized_bargaining,Decentralized bargaining,106.25714285714285,90.08,126.145,14.5699830865673,36.065
+bilateral_trade_3pass,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining,114.57785714285716,96.06,139.685,16.673316970822686,43.625
+bottleneck_priority_bilateral_trade,Bottleneck,decentralized_bargaining,Decentralized bargaining,106.87785714285714,89.205,129.55,14.839910673906497,40.34500000000001
+catch_up_bilateral_trade,Catch-up,decentralized_bargaining,Decentralized bargaining,105.74357142857143,89.72,127.045,14.123664454349221,37.325
+central_clearing,Central clearing,central_matching,Central matching,149.52857142857144,144.97,159.32,6.5212171117857745,14.349999999999994
+central_clearing_capped,Central capped (2),central_matching,Central matching,120.77928571428572,117.91,126.855,3.9192106226588423,8.945000000000007
+clearinghouse_bargaining,Clearinghouse,coordinated_bargaining,Coordinated bargaining,107.95142857142856,91.24,128.67,13.729270044411717,37.42999999999999
+equity_weighted_central,Equity central,central_matching,Central matching,146.24214285714285,140.4,157.21,7.440750890167188,16.810000000000002
+no_trade,No trade,baseline,Baseline,29.405714285714286,29.36,29.455,0.047734384133152466,0.09499999999999886
+public_pool,Public pool,contribution_pool,Contribution-dependent pool,104.155,29.36,146.06,52.445398590661256,116.7
+subsidized_catch_up,Subsidized,redistributive_support,Redistributive support,75.785,73.285,80.925,3.2168151951891804,7.640000000000001

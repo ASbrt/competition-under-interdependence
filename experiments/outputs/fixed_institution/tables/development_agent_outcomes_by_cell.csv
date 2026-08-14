@@ -1,0 +1,78 @@
+population,condition,mean_min_agent_score,mean_bottom_two_score,mean_score_sd,mean_score_gini,population_label,condition_label,institution_family,institution_family_label
+competitive,bilateral_trade,6.795,9.03,9.889361445110799,0.29280084502109355,Competitive,Bilateral,decentralized_bargaining,Decentralized bargaining
+competitive,bilateral_trade_3pass,7.955,10.1175,10.07922384855913,0.27951705852593506,Competitive,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+competitive,bottleneck_priority_bilateral_trade,7.345,9.46,9.722124670478118,0.2819364813416532,Competitive,Bottleneck,decentralized_bargaining,Decentralized bargaining
+competitive,catch_up_bilateral_trade,6.89,8.77,10.414147637532478,0.3062655516081696,Competitive,Catch-up,decentralized_bargaining,Decentralized bargaining
+competitive,central_clearing,20.925,23.03,6.2714781815090275,0.11853063447759625,Competitive,Central clearing,central_matching,Central matching
+competitive,central_clearing_capped,12.865,15.7475,7.976161527951498,0.18539257696889652,Competitive,Central capped (2),central_matching,Central matching
+competitive,clearinghouse_bargaining,7.825,9.9875,9.99897842754833,0.27796288396984137,Competitive,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+competitive,equity_weighted_central,21.47,23.0375,5.362201075901179,0.10453475276362621,Competitive,Equity central,central_matching,Central matching
+competitive,no_trade,1.88,2.435,4.062887917133924,0.33615367619508135,Competitive,No trade,baseline,Baseline
+competitive,public_pool,1.88,2.435,4.062887917133924,0.33615367619508135,Competitive,Public pool,contribution_pool,Contribution-dependent pool
+competitive,subsidized_catch_up,7.41,9.26,5.5750014284099,0.20519595820374056,Competitive,Subsidized,redistributive_support,Redistributive support
+cooperative,bilateral_trade,9.76,13.005,10.41821536561409,0.24837082210007824,Cooperative,Bilateral,decentralized_bargaining,Decentralized bargaining
+cooperative,bilateral_trade_3pass,11.3,14.8475,10.697209570200748,0.23205915672346528,Cooperative,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+cooperative,bottleneck_priority_bilateral_trade,10.14,13.1675,10.703477452631514,0.2483467263735541,Cooperative,Bottleneck,decentralized_bargaining,Decentralized bargaining
+cooperative,catch_up_bilateral_trade,9.365,12.545,11.026841985793647,0.2645394609956685,Cooperative,Catch-up,decentralized_bargaining,Decentralized bargaining
+cooperative,central_clearing,20.925,23.03,6.2714781815090275,0.11853063447759625,Cooperative,Central clearing,central_matching,Central matching
+cooperative,central_clearing_capped,12.865,15.7475,7.976161527951498,0.18539257696889652,Cooperative,Central capped (2),central_matching,Central matching
+cooperative,clearinghouse_bargaining,10.625,13.7025,10.001643268439132,0.23403084864741064,Cooperative,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+cooperative,equity_weighted_central,21.47,23.0375,5.362201075901179,0.10453475276362621,Cooperative,Equity central,central_matching,Central matching
+cooperative,no_trade,1.88,2.435,4.062887917133924,0.33615367619508135,Cooperative,No trade,baseline,Baseline
+cooperative,public_pool,21.52,23.33,5.055655508447869,0.09708021915595516,Cooperative,Public pool,contribution_pool,Contribution-dependent pool
+cooperative,subsidized_catch_up,7.41,9.26,5.5750014284099,0.20519595820374056,Cooperative,Subsidized,redistributive_support,Redistributive support
+fairness_sensitive,bilateral_trade,12.655,15.2975,9.095995254494643,0.20689957160738173,Fairness-sensitive,Bilateral,decentralized_bargaining,Decentralized bargaining
+fairness_sensitive,bilateral_trade_3pass,14.095,17.03,8.861849118020537,0.1897522570942268,Fairness-sensitive,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+fairness_sensitive,bottleneck_priority_bilateral_trade,12.31,14.9825,8.931187730300541,0.21006791443436879,Fairness-sensitive,Bottleneck,decentralized_bargaining,Decentralized bargaining
+fairness_sensitive,catch_up_bilateral_trade,12.04,14.73,9.199474651028012,0.21101020539388649,Fairness-sensitive,Catch-up,decentralized_bargaining,Decentralized bargaining
+fairness_sensitive,central_clearing,21.425,23.355,6.21705640199051,0.11610799098616816,Fairness-sensitive,Central clearing,central_matching,Central matching
+fairness_sensitive,central_clearing_capped,13.35,15.77,7.90794770898023,0.18217381883709294,Fairness-sensitive,Central capped (2),central_matching,Central matching
+fairness_sensitive,clearinghouse_bargaining,12.37,15.325,8.983888685054248,0.20489133063780088,Fairness-sensitive,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+fairness_sensitive,equity_weighted_central,22.075,23.77,5.475825930710764,0.10298784182466593,Fairness-sensitive,Equity central,central_matching,Central matching
+fairness_sensitive,no_trade,1.875,2.4325,4.093134768620058,0.336784075812753,Fairness-sensitive,No trade,baseline,Baseline
+fairness_sensitive,public_pool,22.42,23.76,3.830979008776154,0.0748712622327694,Fairness-sensitive,Public pool,contribution_pool,Contribution-dependent pool
+fairness_sensitive,subsidized_catch_up,7.385,9.385,5.647515623576476,0.20449778114746614,Fairness-sensitive,Subsidized,redistributive_support,Redistributive support
+hoarding,bilateral_trade,6.64,8.7775,10.16544083557338,0.29918839123713525,Hoarding,Bilateral,decentralized_bargaining,Decentralized bargaining
+hoarding,bilateral_trade_3pass,7.735,9.935,10.339318367960741,0.28533681376293335,Hoarding,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+hoarding,bottleneck_priority_bilateral_trade,6.715,8.565,10.32231842108626,0.30672844711878217,Hoarding,Bottleneck,decentralized_bargaining,Decentralized bargaining
+hoarding,catch_up_bilateral_trade,6.61,8.6125,10.257717050573902,0.3028024751627376,Hoarding,Catch-up,decentralized_bargaining,Decentralized bargaining
+hoarding,central_clearing,23.405,25.47,6.381854477801727,0.11030812955183723,Hoarding,Central clearing,central_matching,Central matching
+hoarding,central_clearing_capped,14.145,17.41,7.980160361966137,0.17188123672794575,Hoarding,Central capped (2),central_matching,Central matching
+hoarding,clearinghouse_bargaining,6.78,9.0625,10.177975425767524,0.295857153985537,Hoarding,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+hoarding,equity_weighted_central,24.225,25.8025,5.736557956160604,0.10057192621844133,Hoarding,Equity central,central_matching,Central matching
+hoarding,no_trade,1.875,2.4325,4.093134768620058,0.336784075812753,Hoarding,No trade,baseline,Baseline
+hoarding,public_pool,1.875,2.4325,4.093134768620058,0.336784075812753,Hoarding,Public pool,contribution_pool,Contribution-dependent pool
+hoarding,subsidized_catch_up,8.265,10.3975,5.889952502183308,0.19715867863085504,Hoarding,Subsidized,redistributive_support,Redistributive support
+mixed,bilateral_trade,8.805,11.2725,9.996785678391836,0.2625155711192912,Mixed,Bilateral,decentralized_bargaining,Decentralized bargaining
+mixed,bilateral_trade_3pass,10.455,13.095,9.694834086243741,0.23792654828628895,Mixed,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+mixed,bottleneck_priority_bilateral_trade,8.175,10.8875,10.15299022953912,0.26990640689862855,Mixed,Bottleneck,decentralized_bargaining,Decentralized bargaining
+mixed,catch_up_bilateral_trade,8.145,10.5525,10.762688767825077,0.28390169762104167,Mixed,Catch-up,decentralized_bargaining,Decentralized bargaining
+mixed,central_clearing,21.335,23.505,6.218416053522277,0.1165352846604871,Mixed,Central clearing,central_matching,Central matching
+mixed,central_clearing_capped,13.39,16.2725,7.868489826444196,0.1775018296809305,Mixed,Central capped (2),central_matching,Central matching
+mixed,clearinghouse_bargaining,8.955,11.385,9.782670097304356,0.2550342766481799,Mixed,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+mixed,equity_weighted_central,22.16,23.7325,5.357206862782391,0.10299109114726576,Mixed,Equity central,central_matching,Central matching
+mixed,no_trade,1.88,2.435,4.069921103823592,0.33613496274478893,Mixed,No trade,baseline,Baseline
+mixed,public_pool,10.18,11.905,11.217358826374387,0.27568686665841224,Mixed,Public pool,contribution_pool,Contribution-dependent pool
+mixed,subsidized_catch_up,7.675,9.69,5.662275177288896,0.20306921852333842,Mixed,Subsidized,redistributive_support,Redistributive support
+need_based,bilateral_trade,12.73,15.85,9.647339205914852,0.2102861254830161,Need-based,Bilateral,decentralized_bargaining,Decentralized bargaining
+need_based,bilateral_trade_3pass,14.97,18.4925,9.777708707271625,0.19250223881946713,Need-based,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+need_based,bottleneck_priority_bilateral_trade,12.79,16.19,10.081647989054678,0.21372004394903435,Need-based,Bottleneck,decentralized_bargaining,Decentralized bargaining
+need_based,catch_up_bilateral_trade,11.755,15.1275,10.464195553964668,0.22630955828182905,Need-based,Catch-up,decentralized_bargaining,Decentralized bargaining
+need_based,central_clearing,23.415,25.56,6.5397311896097525,0.1127681310146409,Need-based,Central clearing,central_matching,Central matching
+need_based,central_clearing_capped,13.875,17.0175,8.121656116856608,0.17623985809231968,Need-based,Central capped (2),central_matching,Central matching
+need_based,clearinghouse_bargaining,12.85,16.29,9.902365531014674,0.2132208673881545,Need-based,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+need_based,equity_weighted_central,24.51,26.125,5.633911797543322,0.09785441741297748,Need-based,Equity central,central_matching,Central matching
+need_based,no_trade,1.875,2.4325,4.093134768620058,0.336784075812753,Need-based,No trade,baseline,Baseline
+need_based,public_pool,24.51,25.6275,3.821756196914517,0.0697772363041151,Need-based,Public pool,contribution_pool,Contribution-dependent pool
+need_based,subsidized_catch_up,8.06,10.17,5.906570340336908,0.20067421549958342,Need-based,Subsidized,redistributive_support,Redistributive support
+selfish,bilateral_trade,7.885,10.2625,9.737129098387534,0.27152227083406916,Selfish,Bilateral,decentralized_bargaining,Decentralized bargaining
+selfish,bilateral_trade_3pass,8.855,11.5475,9.943678608842207,0.25820187777793424,Selfish,Bilateral 3-pass,decentralized_bargaining,Decentralized bargaining
+selfish,bottleneck_priority_bilateral_trade,8.245,10.8125,9.851885852526777,0.2669082259980231,Selfish,Bottleneck,decentralized_bargaining,Decentralized bargaining
+selfish,catch_up_bilateral_trade,7.905,10.4575,9.970887073770779,0.2718971840770914,Selfish,Catch-up,decentralized_bargaining,Decentralized bargaining
+selfish,central_clearing,20.88,22.96,6.271058890671392,0.11854098571825376,Selfish,Central clearing,central_matching,Central matching
+selfish,central_clearing_capped,13.135,15.92,7.94930768549511,0.18346660417674562,Selfish,Central capped (2),central_matching,Central matching
+selfish,clearinghouse_bargaining,8.335,10.6675,9.902525518202939,0.2694224842909472,Selfish,Clearinghouse,coordinated_bargaining,Coordinated bargaining
+selfish,equity_weighted_central,21.435,23.0425,5.371384286837853,0.10487005164983619,Selfish,Equity central,central_matching,Central matching
+selfish,no_trade,1.88,2.435,4.062887917133924,0.33615367619508135,Selfish,No trade,baseline,Baseline
+selfish,public_pool,22.99,24.2775,3.657562894315955,0.07052589825329188,Selfish,Public pool,contribution_pool,Contribution-dependent pool
+selfish,subsidized_catch_up,7.44,9.3275,5.539586963009738,0.20275041924826678,Selfish,Subsidized,redistributive_support,Redistributive support

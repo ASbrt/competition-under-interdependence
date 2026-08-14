@@ -1,0 +1,55 @@
+branch_state_id,base_game_id,seed,scenario,scenario_label,round,q_chosen_action,feasible_actions,n_feasible_actions
+1,1,700000,need_based,Need-based,3,bilateral_3pass,bilateral_3pass,1
+2,1,700000,need_based,Need-based,10,clearinghouse,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+3,1,700000,need_based,Need-based,16,central_cap2,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2|central_full,7
+4,2,700001,need_based,Need-based,3,bilateral_3pass,bilateral_3pass,1
+5,2,700001,need_based,Need-based,10,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+6,2,700001,need_based,Need-based,16,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+7,3,700002,need_based,Need-based,3,subsidized_catch_up,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+8,3,700002,need_based,Need-based,10,bilateral_3pass,bilateral_3pass,1
+9,3,700002,need_based,Need-based,16,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+10,4,700100,cooperative,Cooperative,3,bilateral_3pass,bilateral_3pass|clearinghouse,2
+11,4,700100,cooperative,Cooperative,10,clearinghouse,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+12,4,700100,cooperative,Cooperative,16,bilateral_3pass,bilateral_3pass,1
+13,5,700101,cooperative,Cooperative,3,bilateral_3pass,bilateral_3pass,1
+14,5,700101,cooperative,Cooperative,10,bilateral_3pass,bilateral_3pass,1
+15,5,700101,cooperative,Cooperative,16,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2|central_full,7
+16,6,700102,cooperative,Cooperative,3,bilateral_3pass,bilateral_3pass|clearinghouse,2
+17,6,700102,cooperative,Cooperative,10,central_full,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2|central_full,7
+18,6,700102,cooperative,Cooperative,16,bilateral_3pass,bilateral_3pass,1
+19,7,700200,hoarding,Hoarding,3,bilateral_3pass,bilateral_3pass|subsidized_catch_up,2
+20,7,700200,hoarding,Hoarding,10,subsidized_catch_up,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+21,7,700200,hoarding,Hoarding,16,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+22,8,700201,hoarding,Hoarding,3,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+23,8,700201,hoarding,Hoarding,10,subsidized_catch_up,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+24,8,700201,hoarding,Hoarding,16,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+25,9,700202,hoarding,Hoarding,3,subsidized_catch_up,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+26,9,700202,hoarding,Hoarding,10,bilateral_3pass,bilateral_3pass,1
+27,9,700202,hoarding,Hoarding,16,bilateral_3pass,bilateral_3pass,1
+28,10,700300,mixed,Mixed,3,subsidized_catch_up,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+29,10,700300,mixed,Mixed,10,bilateral_3pass,bilateral_3pass|clearinghouse,2
+30,10,700300,mixed,Mixed,16,bilateral_3pass,bilateral_3pass|clearinghouse,2
+31,11,700301,mixed,Mixed,3,bilateral_3pass,bilateral_3pass,1
+32,11,700301,mixed,Mixed,10,central_full,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2|central_full,7
+33,11,700301,mixed,Mixed,16,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+34,12,700302,mixed,Mixed,3,bilateral_3pass,bilateral_3pass|clearinghouse,2
+35,12,700302,mixed,Mixed,10,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+36,12,700302,mixed,Mixed,16,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+37,13,700400,need_based_to_competitive,Need-based → competitive,3,clearinghouse,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+38,13,700400,need_based_to_competitive,Need-based → competitive,10,subsidized_catch_up,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+39,13,700400,need_based_to_competitive,Need-based → competitive,16,bilateral_3pass,bilateral_3pass|clearinghouse,2
+40,14,700401,need_based_to_competitive,Need-based → competitive,3,bilateral_3pass,bilateral_3pass,1
+41,14,700401,need_based_to_competitive,Need-based → competitive,10,subsidized_catch_up,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2|central_full,7
+42,14,700401,need_based_to_competitive,Need-based → competitive,16,clearinghouse,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+43,15,700402,need_based_to_competitive,Need-based → competitive,3,subsidized_catch_up,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+44,15,700402,need_based_to_competitive,Need-based → competitive,10,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+45,15,700402,need_based_to_competitive,Need-based → competitive,16,clearinghouse,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2|central_full,7
+46,16,700500,cooperative_to_hoarding,Cooperative → hoarding,3,bilateral_3pass,bilateral_3pass,1
+47,16,700500,cooperative_to_hoarding,Cooperative → hoarding,10,subsidized_catch_up,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+48,16,700500,cooperative_to_hoarding,Cooperative → hoarding,16,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+49,17,700501,cooperative_to_hoarding,Cooperative → hoarding,3,bilateral_3pass,bilateral_3pass,1
+50,17,700501,cooperative_to_hoarding,Cooperative → hoarding,10,bilateral_3pass,bilateral_3pass,1
+51,17,700501,cooperative_to_hoarding,Cooperative → hoarding,16,bilateral_3pass,bilateral_3pass,1
+52,18,700502,cooperative_to_hoarding,Cooperative → hoarding,3,subsidized_catch_up,bilateral_3pass|clearinghouse|subsidized_catch_up,3
+53,18,700502,cooperative_to_hoarding,Cooperative → hoarding,10,bilateral_3pass,bilateral_3pass|clearinghouse|public_pool|subsidized_catch_up|central_cap2|equity_cap2,6
+54,18,700502,cooperative_to_hoarding,Cooperative → hoarding,16,bilateral_3pass,bilateral_3pass|clearinghouse|subsidized_catch_up,3

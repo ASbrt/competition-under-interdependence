@@ -1,0 +1,7 @@
+target_policy,baseline_policy,metric,mean_difference,seed_clustered_ci95_low,seed_clustered_ci95_high,seed_clusters,observations
+learned_q,permanent_bilateral_3pass,final_welfare,0.7645833333333334,0.3032312500000002,1.2184291666666667,100,600
+learned_q,random_feasible,final_welfare,0.13633333333333317,-0.3360125000000002,0.6078333333333331,100,600
+learned_q,frequency_informed_random,final_welfare,-0.13275000000000006,-0.5971812500000001,0.32434999999999997,100,600
+learned_q,shuffled_learned_sequence,final_welfare,0.13825,-0.29500625000000014,0.5554333333333331,100,600
+frequency_informed_random,permanent_bilateral_3pass,final_welfare,0.8973333333333335,0.4686437500000001,1.3152541666666666,100,600
+frequency_informed_random,random_feasible,final_welfare,0.26908333333333323,-0.18500000000000022,0.7201208333333328,100,600

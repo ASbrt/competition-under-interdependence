@@ -1,0 +1,7 @@
+category,file,title,purpose
+main,plots/main/01_score_heatmap_development.png,Institutional performance depends on agent objectives,Full development-oriented institution × utility matrix
+main,plots/main/02_robustness_average_worst_case.png,Average performance and robustness to changing populations,One point per institution: average versus worst population
+main,plots/main/03_selected_institution_population_interaction.png,The best institutional arrangement changes with agent objectives,Selected population × institution interaction
+main,plots/main/04_efficiency_weakest_agent_frontier.png,Aggregate development and the weakest-agent outcome,Aggregate score versus minimum agent score
+main,plots/main/05_public_pool_vs_central_paired.png,When does contribution-based pooling outperform central matching?,Paired population-specific comparison with 95% intervals
+supporting,plots/supporting/crown_score_effect_by_institution.png,Relative-status incentives are a secondary effect,Crown-aware minus development-oriented paired effects

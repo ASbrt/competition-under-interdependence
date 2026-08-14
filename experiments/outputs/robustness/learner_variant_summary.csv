@@ -1,0 +1,4 @@
+variant,purpose,outcome
+State-v2,"Add lower-tail information and modify tie-breaking","Some diagnostics improved, but policy-level comparisons remained unresolved."
+Longer-return variants,"Test n-step and Monte Carlo-style credit assignment","No stable policy-level improvement on the fixed evaluation set."
+State-v3,"Substantially enlarge the tabular state representation","Performance remained unstable and did not justify further expansion of the Q-table."

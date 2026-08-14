@@ -1,0 +1,11 @@
+sweep_label,condition_label,n_matched_seeds,mean_change_5_minus_0,ci95_low,ci95_high
+Cooperative → hoarding,Bilateral 3-pass,100,-28.92,-34.700250000000004,-23.21
+Cooperative → hoarding,Central capped (2),100,6.71,2.99,10.47
+Cooperative → hoarding,Central clearing,100,17.12,12.219500000000002,22.1
+Cooperative → hoarding,No trade,100,-0.01,-0.03,0.0
+Cooperative → hoarding,Public pool,100,-110.58,-114.16,-107.09
+Need-based → competitive,Bilateral 3-pass,100,-41.39,-46.99,-35.76950000000001
+Need-based → competitive,Central capped (2),100,-5.1,-9.06,-1.0
+Need-based → competitive,Central clearing,100,-18.0,-22.84,-13.139750000000005
+Need-based → competitive,No trade,100,0.01,0.0,0.03
+Need-based → competitive,Public pool,100,-116.51,-119.27,-113.75975000000001

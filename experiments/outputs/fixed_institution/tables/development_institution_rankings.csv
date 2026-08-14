@@ -1,0 +1,78 @@
+population,population_label,rank,condition,condition_label,mean_final_total_score
+competitive,Competitive,1,central_clearing,Central clearing,145.06
+competitive,Competitive,2,equity_weighted_central,Equity central,140.4
+competitive,Competitive,3,central_clearing_capped,Central capped (2),117.91
+competitive,Competitive,4,bilateral_trade_3pass,Bilateral 3-pass,97.565
+competitive,Competitive,5,clearinghouse_bargaining,Clearinghouse,97.02
+competitive,Competitive,6,bottleneck_priority_bilateral_trade,Bottleneck,92.005
+competitive,Competitive,7,bilateral_trade,Bilateral,91.085
+competitive,Competitive,8,catch_up_bilateral_trade,Catch-up,90.76
+competitive,Competitive,9,subsidized_catch_up,Subsidized,73.285
+competitive,Competitive,10,no_trade,No trade,29.36
+competitive,Competitive,11,public_pool,Public pool,29.36
+cooperative,Cooperative,1,central_clearing,Central clearing,145.06
+cooperative,Cooperative,2,public_pool,Public pool,140.595
+cooperative,Cooperative,3,equity_weighted_central,Equity central,140.4
+cooperative,Cooperative,4,bilateral_trade_3pass,Bilateral 3-pass,125.835
+cooperative,Cooperative,5,central_clearing_capped,Central capped (2),117.91
+cooperative,Cooperative,6,bottleneck_priority_bilateral_trade,Bottleneck,117.59
+cooperative,Cooperative,7,clearinghouse_bargaining,Clearinghouse,116.115
+cooperative,Cooperative,8,bilateral_trade,Bilateral,115.58
+cooperative,Cooperative,9,catch_up_bilateral_trade,Catch-up,114.045
+cooperative,Cooperative,10,subsidized_catch_up,Subsidized,73.285
+cooperative,Cooperative,11,no_trade,No trade,29.36
+fairness_sensitive,Fairness-sensitive,1,central_clearing,Central clearing,146.4
+fairness_sensitive,Fairness-sensitive,2,equity_weighted_central,Equity central,144.605
+fairness_sensitive,Fairness-sensitive,3,public_pool,Public pool,136.645
+fairness_sensitive,Fairness-sensitive,4,bilateral_trade_3pass,Bilateral 3-pass,127.415
+fairness_sensitive,Fairness-sensitive,5,bilateral_trade,Bilateral,120.62
+fairness_sensitive,Fairness-sensitive,6,clearinghouse_bargaining,Clearinghouse,119.905
+fairness_sensitive,Fairness-sensitive,7,central_clearing_capped,Central capped (2),118.19
+fairness_sensitive,Fairness-sensitive,8,catch_up_bilateral_trade,Catch-up,117.4
+fairness_sensitive,Fairness-sensitive,9,bottleneck_priority_bilateral_trade,Bottleneck,116.765
+fairness_sensitive,Fairness-sensitive,10,subsidized_catch_up,Subsidized,74.265
+fairness_sensitive,Fairness-sensitive,11,no_trade,No trade,29.455
+hoarding,Hoarding,1,central_clearing,Central clearing,158.665
+hoarding,Hoarding,2,equity_weighted_central,Equity central,156.475
+hoarding,Hoarding,3,central_clearing_capped,Central capped (2),126.855
+hoarding,Hoarding,4,bilateral_trade_3pass,Bilateral 3-pass,96.06
+hoarding,Hoarding,5,clearinghouse_bargaining,Clearinghouse,91.24
+hoarding,Hoarding,6,bilateral_trade,Bilateral,90.08
+hoarding,Hoarding,7,catch_up_bilateral_trade,Catch-up,89.72
+hoarding,Hoarding,8,bottleneck_priority_bilateral_trade,Bottleneck,89.205
+hoarding,Hoarding,9,subsidized_catch_up,Subsidized,80.925
+hoarding,Hoarding,10,no_trade,No trade,29.455
+hoarding,Hoarding,11,public_pool,Public pool,29.455
+mixed,Mixed,1,central_clearing,Central clearing,147.225
+mixed,Mixed,2,equity_weighted_central,Equity central,143.915
+mixed,Mixed,3,central_clearing_capped,Central capped (2),120.03
+mixed,Mixed,4,bilateral_trade_3pass,Bilateral 3-pass,110.93
+mixed,Mixed,5,public_pool,Public pool,108.62
+mixed,Mixed,6,bilateral_trade,Bilateral,103.175
+mixed,Mixed,7,clearinghouse_bargaining,Clearinghouse,103.14
+mixed,Mixed,8,bottleneck_priority_bilateral_trade,Bottleneck,102.885
+mixed,Mixed,9,catch_up_bilateral_trade,Catch-up,102.12
+mixed,Mixed,10,subsidized_catch_up,Subsidized,75.355
+mixed,Mixed,11,no_trade,No trade,29.395
+need_based,Need-based,1,central_clearing,Central clearing,159.32
+need_based,Need-based,2,equity_weighted_central,Equity central,157.21
+need_based,Need-based,3,public_pool,Public pool,146.06
+need_based,Need-based,4,bilateral_trade_3pass,Bilateral 3-pass,139.685
+need_based,Need-based,5,bottleneck_priority_bilateral_trade,Bottleneck,129.55
+need_based,Need-based,6,clearinghouse_bargaining,Clearinghouse,128.67
+need_based,Need-based,7,catch_up_bilateral_trade,Catch-up,127.045
+need_based,Need-based,8,bilateral_trade,Bilateral,126.145
+need_based,Need-based,9,central_clearing_capped,Central capped (2),125.955
+need_based,Need-based,10,subsidized_catch_up,Subsidized,79.775
+need_based,Need-based,11,no_trade,No trade,29.455
+selfish,Selfish,1,central_clearing,Central clearing,144.97
+selfish,Selfish,2,equity_weighted_central,Equity central,140.69
+selfish,Selfish,3,public_pool,Public pool,138.35
+selfish,Selfish,4,central_clearing_capped,Central capped (2),118.605
+selfish,Selfish,5,bilateral_trade_3pass,Bilateral 3-pass,104.555
+selfish,Selfish,6,bottleneck_priority_bilateral_trade,Bottleneck,100.145
+selfish,Selfish,7,clearinghouse_bargaining,Clearinghouse,99.57
+selfish,Selfish,8,catch_up_bilateral_trade,Catch-up,99.115
+selfish,Selfish,9,bilateral_trade,Bilateral,97.115
+selfish,Selfish,10,subsidized_catch_up,Subsidized,73.605
+selfish,Selfish,11,no_trade,No trade,29.36

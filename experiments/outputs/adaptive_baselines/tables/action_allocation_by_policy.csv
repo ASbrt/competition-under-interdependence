@@ -1,0 +1,31 @@
+policy_name,policy_label,scenario,scenario_label,bilateral_3pass,clearinghouse,public_pool,subsidized_catch_up,central_cap2,equity_cap2,central_full
+frequency_informed_random,Frequency-informed random feasible,cooperative,Cooperative,12.74,2.35,0.74,3.4,0.25,0.3,0.22
+frequency_informed_random,Frequency-informed random feasible,cooperative_to_hoarding,Cooperative → hoarding,12.63,2.41,0.74,3.41,0.27,0.32,0.22
+frequency_informed_random,Frequency-informed random feasible,hoarding,Hoarding,12.53,2.38,0.79,3.42,0.28,0.32,0.28
+frequency_informed_random,Frequency-informed random feasible,mixed,Mixed,12.77,2.32,0.76,3.36,0.27,0.28,0.24
+frequency_informed_random,Frequency-informed random feasible,need_based,Need-based,12.79,2.32,0.72,3.41,0.26,0.29,0.21
+frequency_informed_random,Frequency-informed random feasible,need_based_to_competitive,Need-based → competitive,12.68,2.36,0.76,3.41,0.25,0.31,0.23
+learned_q,Learned Q policy,cooperative,Cooperative,11.92,2.96,1.08,3.17,0.3,0.18,0.39
+learned_q,Learned Q policy,cooperative_to_hoarding,Cooperative → hoarding,11.26,2.84,0.98,4.15,0.14,0.18,0.45
+learned_q,Learned Q policy,hoarding,Hoarding,11.07,2.32,0.82,4.3,0.53,0.49,0.47
+learned_q,Learned Q policy,mixed,Mixed,11.87,2.02,0.85,3.76,0.46,0.38,0.66
+learned_q,Learned Q policy,need_based,Need-based,11.89,2.64,1.01,3.36,0.33,0.25,0.52
+learned_q,Learned Q policy,need_based_to_competitive,Need-based → competitive,11.5,2.66,0.91,3.91,0.15,0.26,0.61
+permanent_bilateral_3pass,Permanent bilateral 3-pass,cooperative,Cooperative,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+permanent_bilateral_3pass,Permanent bilateral 3-pass,cooperative_to_hoarding,Cooperative → hoarding,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+permanent_bilateral_3pass,Permanent bilateral 3-pass,hoarding,Hoarding,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+permanent_bilateral_3pass,Permanent bilateral 3-pass,mixed,Mixed,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+permanent_bilateral_3pass,Permanent bilateral 3-pass,need_based,Need-based,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+permanent_bilateral_3pass,Permanent bilateral 3-pass,need_based_to_competitive,Need-based → competitive,20.0,0.0,0.0,0.0,0.0,0.0,0.0
+random_feasible,Uniform random feasible,cooperative,Cooperative,11.41,2.78,0.7,3.4,0.74,0.66,0.31
+random_feasible,Uniform random feasible,cooperative_to_hoarding,Cooperative → hoarding,11.04,3.04,0.72,3.44,0.78,0.67,0.31
+random_feasible,Uniform random feasible,hoarding,Hoarding,10.55,3.25,0.84,3.21,0.89,0.89,0.37
+random_feasible,Uniform random feasible,mixed,Mixed,11.39,3.01,0.71,3.03,0.8,0.74,0.32
+random_feasible,Uniform random feasible,need_based,Need-based,11.4,2.86,0.72,3.16,0.84,0.68,0.34
+random_feasible,Uniform random feasible,need_based_to_competitive,Need-based → competitive,11.09,3.0,0.79,3.19,0.89,0.7,0.34
+shuffled_learned_sequence,Shuffled learned sequence,cooperative,Cooperative,12.68,2.78,0.93,2.97,0.25,0.13,0.26
+shuffled_learned_sequence,Shuffled learned sequence,cooperative_to_hoarding,Cooperative → hoarding,12.08,2.6,0.88,3.87,0.11,0.18,0.28
+shuffled_learned_sequence,Shuffled learned sequence,hoarding,Hoarding,11.95,2.23,0.61,4.11,0.43,0.39,0.28
+shuffled_learned_sequence,Shuffled learned sequence,mixed,Mixed,12.74,1.99,0.69,3.53,0.35,0.32,0.38
+shuffled_learned_sequence,Shuffled learned sequence,need_based,Need-based,12.67,2.57,0.9,3.16,0.23,0.2,0.27
+shuffled_learned_sequence,Shuffled learned sequence,need_based_to_competitive,Need-based → competitive,12.19,2.56,0.75,3.81,0.14,0.2,0.35

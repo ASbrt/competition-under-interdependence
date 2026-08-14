@@ -1,0 +1,11 @@
+{
+  "bootstrap_draws": 10000,
+  "bootstrap_seed": 20260811,
+  "source_outputs": [
+    "experiments/outputs/fixed_institution",
+    "experiments/outputs/composition_sweep",
+    "experiments/outputs/adaptive_planner",
+    "experiments/outputs/adaptive_baselines",
+    "experiments/outputs/branch_diagnostic"
+  ]
+}

@@ -1,0 +1,73 @@
+sweep,sweep_label,restrictive_label,restrictive_count,restrictive_share,condition,condition_label,final_total_score,final_min_score,final_score_gap,cumulative_trades_executed
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,0,0.0,bilateral_3pass,Bilateral 3-pass,126.28,11.36,29.32,70.58
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,0,0.0,central_cap2,Central capped (2),121.82,13.4,22.46,35.55
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,0,0.0,central_full,Central clearing,143.83,20.46,17.81,51.05
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,0,0.0,equity_central,Equity central,139.27,21.47,14.52,51.53
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,0,0.0,no_trade,No trade,29.92,1.8,11.32,0.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,0,0.0,public_pool,Public pool,140.49,21.45,13.9,49.94
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,1,0.2,bilateral_3pass,Bilateral 3-pass,118.04,10.45,27.4,56.37
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,1,0.2,central_cap2,Central capped (2),121.42,13.32,22.51,35.38
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,1,0.2,central_full,Central clearing,147.13,20.79,18.03,51.92
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,1,0.2,equity_central,Equity central,145.78,22.64,14.55,52.61
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,1,0.2,no_trade,No trade,29.92,1.8,11.32,0.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,1,0.2,public_pool,Public pool,123.24,14.56,26.39,44.46
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,2,0.4,bilateral_3pass,Bilateral 3-pass,112.09,9.41,27.36,45.23
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,2,0.4,central_cap2,Central capped (2),122.6,14.02,22.36,35.31
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,2,0.4,central_full,Central clearing,150.12,22.59,15.96,52.46
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,2,0.4,equity_central,Equity central,147.89,23.12,14.36,53.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,2,0.4,no_trade,No trade,29.92,1.8,11.32,0.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,2,0.4,public_pool,Public pool,109.59,9.27,31.52,37.93
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,3,0.6,bilateral_3pass,Bilateral 3-pass,109.15,10.16,26.39,32.34
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,3,0.6,central_cap2,Central capped (2),123.91,13.82,22.67,35.09
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,3,0.6,central_full,Central clearing,154.45,23.33,16.27,53.18
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,3,0.6,equity_central,Equity central,150.48,23.32,14.78,52.89
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,3,0.6,no_trade,No trade,29.92,1.8,11.32,0.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,3,0.6,public_pool,Public pool,91.34,4.76,31.97,29.95
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,4,0.8,bilateral_3pass,Bilateral 3-pass,100.87,8.35,27.43,22.95
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,4,0.8,central_cap2,Central capped (2),125.13,14.18,21.64,34.81
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,4,0.8,central_full,Central clearing,157.39,22.98,17.86,53.38
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,4,0.8,equity_central,Equity central,156.96,24.67,15.12,54.06
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,4,0.8,no_trade,No trade,29.92,1.8,11.32,0.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,4,0.8,public_pool,Public pool,63.59,2.56,25.04,18.09
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,5,1.0,bilateral_3pass,Bilateral 3-pass,97.36,7.88,27.84,15.88
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,5,1.0,central_cap2,Central capped (2),128.53,14.8,21.45,34.13
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,5,1.0,central_full,Central clearing,160.95,24.15,17.13,52.52
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,5,1.0,equity_central,Equity central,156.47,24.28,15.77,51.95
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,5,1.0,no_trade,No trade,29.91,1.8,11.31,0.0
+cooperative_to_hoarding,Cooperative → hoarding,Hoarding agents,5,1.0,public_pool,Public pool,29.91,1.8,11.31,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,0,0.0,bilateral_3pass,Bilateral 3-pass,139.69,14.62,27.53,41.42
+need_based_to_competitive,Need-based → competitive,Competitive agents,0,0.0,central_cap2,Central capped (2),126.92,14.07,22.32,34.27
+need_based_to_competitive,Need-based → competitive,Competitive agents,0,0.0,central_full,Central clearing,161.83,24.11,18.05,53.66
+need_based_to_competitive,Need-based → competitive,Competitive agents,0,0.0,equity_central,Equity central,156.93,24.26,15.73,52.48
+need_based_to_competitive,Need-based → competitive,Competitive agents,0,0.0,no_trade,No trade,29.91,1.8,11.31,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,0,0.0,public_pool,Public pool,146.43,24.55,10.83,49.7
+need_based_to_competitive,Need-based → competitive,Competitive agents,1,0.2,bilateral_3pass,Bilateral 3-pass,130.37,13.26,26.61,36.78
+need_based_to_competitive,Need-based → competitive,Competitive agents,1,0.2,central_cap2,Central capped (2),123.67,13.86,21.8,34.93
+need_based_to_competitive,Need-based → competitive,Competitive agents,1,0.2,central_full,Central clearing,155.7,22.77,17.11,53.55
+need_based_to_competitive,Need-based → competitive,Competitive agents,1,0.2,equity_central,Equity central,154.28,23.8,15.21,52.72
+need_based_to_competitive,Need-based → competitive,Competitive agents,1,0.2,no_trade,No trade,29.91,1.8,11.31,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,1,0.2,public_pool,Public pool,133.53,18.07,22.33,46.01
+need_based_to_competitive,Need-based → competitive,Competitive agents,2,0.4,bilateral_3pass,Bilateral 3-pass,125.46,11.73,28.63,33.91
+need_based_to_competitive,Need-based → competitive,Competitive agents,2,0.4,central_cap2,Central capped (2),125.54,14.02,22.77,35.06
+need_based_to_competitive,Need-based → competitive,Competitive agents,2,0.4,central_full,Central clearing,151.07,21.89,18.05,52.91
+need_based_to_competitive,Need-based → competitive,Competitive agents,2,0.4,equity_central,Equity central,149.37,22.81,15.13,53.01
+need_based_to_competitive,Need-based → competitive,Competitive agents,2,0.4,no_trade,No trade,29.91,1.8,11.31,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,2,0.4,public_pool,Public pool,115.71,11.81,28.5,40.71
+need_based_to_competitive,Need-based → competitive,Competitive agents,3,0.6,bilateral_3pass,Bilateral 3-pass,117.27,10.18,29.26,30.12
+need_based_to_competitive,Need-based → competitive,Competitive agents,3,0.6,central_cap2,Central capped (2),120.35,13.49,21.4,35.22
+need_based_to_competitive,Need-based → competitive,Competitive agents,3,0.6,central_full,Central clearing,148.79,21.75,17.76,52.77
+need_based_to_competitive,Need-based → competitive,Competitive agents,3,0.6,equity_central,Equity central,146.95,22.64,15.27,52.62
+need_based_to_competitive,Need-based → competitive,Competitive agents,3,0.6,no_trade,No trade,29.91,1.8,11.31,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,3,0.6,public_pool,Public pool,87.43,4.92,30.23,31.04
+need_based_to_competitive,Need-based → competitive,Competitive agents,4,0.8,bilateral_3pass,Bilateral 3-pass,103.01,8.08,29.07,25.7
+need_based_to_competitive,Need-based → competitive,Competitive agents,4,0.8,central_cap2,Central capped (2),121.36,13.14,22.77,35.45
+need_based_to_competitive,Need-based → competitive,Competitive agents,4,0.8,central_full,Central clearing,147.26,20.94,18.21,51.7
+need_based_to_competitive,Need-based → competitive,Competitive agents,4,0.8,equity_central,Equity central,143.97,22.14,14.74,52.82
+need_based_to_competitive,Need-based → competitive,Competitive agents,4,0.8,no_trade,No trade,29.91,1.8,11.31,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,4,0.8,public_pool,Public pool,59.46,2.37,23.3,19.5
+need_based_to_competitive,Need-based → competitive,Competitive agents,5,1.0,bilateral_3pass,Bilateral 3-pass,98.3,8.0,27.53,21.18
+need_based_to_competitive,Need-based → competitive,Competitive agents,5,1.0,central_cap2,Central capped (2),121.82,13.4,22.46,35.55
+need_based_to_competitive,Need-based → competitive,Competitive agents,5,1.0,central_full,Central clearing,143.83,20.46,17.81,51.05
+need_based_to_competitive,Need-based → competitive,Competitive agents,5,1.0,equity_central,Equity central,139.27,21.47,14.52,51.53
+need_based_to_competitive,Need-based → competitive,Competitive agents,5,1.0,no_trade,No trade,29.92,1.8,11.32,0.0
+need_based_to_competitive,Need-based → competitive,Competitive agents,5,1.0,public_pool,Public pool,29.92,1.8,11.32,0.0

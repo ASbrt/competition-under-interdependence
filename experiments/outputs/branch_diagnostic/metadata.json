@@ -1,0 +1,15 @@
+{
+  "model": "experiments/outputs/adaptive_planner/model/online_q_table.json",
+  "base_seed_start": 700000,
+  "base_games_per_scenario": 3,
+  "checkpoint_rounds": [
+    3,
+    10,
+    16
+  ],
+  "replications_per_action": 40,
+  "selection_replications": 20,
+  "evaluation_replications": 20,
+  "bootstrap_draws": 10000,
+  "verdict": "MIXED / INCONCLUSIVE"
+}

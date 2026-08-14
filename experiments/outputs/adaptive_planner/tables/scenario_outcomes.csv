@@ -1,0 +1,7 @@
+scenario,scenario_label,n,mean_final_total_score,mean_final_min_score,mean_final_score_gap,mean_final_welfare,mean_capacity_cost,mean_final_capacity
+cooperative,Cooperative,100,120.52,12.23,25.34,21.1355,24.38,3.58
+cooperative_to_hoarding,Cooperative → hoarding,100,102.72,8.94,25.15,17.643,25.09,2.89
+hoarding,Hoarding,100,101.98,9.94,23.62,17.782,25.27,2.73
+mixed,Mixed,100,110.15,10.78,24.41,19.2175,24.65,3.35
+need_based,Need-based,100,136.51,16.12,23.36,24.506500000000003,24.51,3.49
+need_based_to_competitive,Need-based → competitive,100,118.19,12.31,24.45,20.805999999999997,24.81,3.19

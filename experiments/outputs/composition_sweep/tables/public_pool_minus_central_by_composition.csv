@@ -1,0 +1,13 @@
+restrictive_count,pool,central,difference,sweep
+0,140.49,143.83,-3.3400000000000034,cooperative_to_hoarding
+1,123.24,147.13,-23.89,cooperative_to_hoarding
+2,109.59,150.12,-40.53,cooperative_to_hoarding
+3,91.34,154.45,-63.109999999999985,cooperative_to_hoarding
+4,63.59,157.39,-93.79999999999998,cooperative_to_hoarding
+5,29.91,160.95,-131.04,cooperative_to_hoarding
+0,146.43,161.83,-15.400000000000006,need_based_to_competitive
+1,133.53,155.7,-22.169999999999987,need_based_to_competitive
+2,115.71,151.07,-35.36,need_based_to_competitive
+3,87.43,148.79,-61.359999999999985,need_based_to_competitive
+4,59.46,147.26,-87.79999999999998,need_based_to_competitive
+5,29.92,143.83,-113.91000000000001,need_based_to_competitive

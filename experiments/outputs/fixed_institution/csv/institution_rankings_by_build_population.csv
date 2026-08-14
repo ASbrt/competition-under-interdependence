@@ -1,0 +1,155 @@
+build_mode,build_mode_label,population,population_label,condition,condition_label,mean_final_total_score,mean_final_score_gap,rank_final_total_score,rank_lowest_final_score_gap
+crown_aware,Crown-aware,competitive,Competitive,bilateral_trade,Bilateral,89.745,26.67,7,9
+crown_aware,Crown-aware,competitive,Competitive,bilateral_trade_3pass,Bilateral 3-pass,95.965,27.23,4,10
+crown_aware,Crown-aware,competitive,Competitive,bottleneck_priority_bilateral_trade,Bottleneck,90.85,26.415,6,7
+crown_aware,Crown-aware,competitive,Competitive,catch_up_bilateral_trade,Catch-up,89.71,27.795,8,11
+crown_aware,Crown-aware,competitive,Competitive,central_clearing,Central clearing,143.25,17.34,1,5
+crown_aware,Crown-aware,competitive,Competitive,central_clearing_capped,Central capped (2),117.185,22.07,3,6
+crown_aware,Crown-aware,competitive,Competitive,clearinghouse_bargaining,Clearinghouse,94.985,26.48,5,8
+crown_aware,Crown-aware,competitive,Competitive,equity_weighted_central,Equity central,137.74,14.995,2,3
+crown_aware,Crown-aware,competitive,Competitive,no_trade,No trade,29.36,10.785,10,1
+crown_aware,Crown-aware,competitive,Competitive,public_pool,Public pool,29.36,10.785,11,2
+crown_aware,Crown-aware,competitive,Competitive,subsidized_catch_up,Subsidized,72.8,15.325,9,4
+crown_aware,Crown-aware,cooperative,Cooperative,bilateral_trade,Bilateral,114.52,28.49,7,8
+crown_aware,Crown-aware,cooperative,Cooperative,bilateral_trade_3pass,Bilateral 3-pass,124.535,30.0,4,10
+crown_aware,Crown-aware,cooperative,Cooperative,bottleneck_priority_bilateral_trade,Bottleneck,115.57,29.5,6,9
+crown_aware,Crown-aware,cooperative,Cooperative,catch_up_bilateral_trade,Catch-up,113.395,30.25,9,11
+crown_aware,Crown-aware,cooperative,Cooperative,central_clearing,Central clearing,144.53,17.45,1,5
+crown_aware,Crown-aware,cooperative,Cooperative,central_clearing_capped,Central capped (2),117.95,22.02,5,6
+crown_aware,Crown-aware,cooperative,Cooperative,clearinghouse_bargaining,Clearinghouse,113.655,27.625,8,7
+crown_aware,Crown-aware,cooperative,Cooperative,equity_weighted_central,Equity central,139.035,14.865,3,3
+crown_aware,Crown-aware,cooperative,Cooperative,no_trade,No trade,29.36,10.785,11,1
+crown_aware,Crown-aware,cooperative,Cooperative,public_pool,Public pool,139.575,14.4,2,2
+crown_aware,Crown-aware,cooperative,Cooperative,subsidized_catch_up,Subsidized,72.905,15.35,10,4
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,bilateral_trade,Bilateral,119.385,24.805,5,9
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,bilateral_trade_3pass,Bilateral 3-pass,127.45,24.91,4,10
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,bottleneck_priority_bilateral_trade,Bottleneck,116.845,24.41,8,8
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,catch_up_bilateral_trade,Catch-up,115.545,24.915,9,11
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,central_clearing,Central clearing,145.625,17.135,1,5
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,central_clearing_capped,Central capped (2),118.07,21.84,7,6
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,clearinghouse_bargaining,Clearinghouse,118.885,23.87,6,7
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,equity_weighted_central,Equity central,142.87,15.405,2,3
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,no_trade,No trade,29.455,10.875,11,2
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,public_pool,Public pool,136.335,10.735,3,1
+crown_aware,Crown-aware,fairness_sensitive,Fairness-sensitive,subsidized_catch_up,Subsidized,73.855,15.625,10,4
+crown_aware,Crown-aware,hoarding,Hoarding,bilateral_trade,Bilateral,89.02,28.01,6,11
+crown_aware,Crown-aware,hoarding,Hoarding,bilateral_trade_3pass,Bilateral 3-pass,94.265,27.66,4,9
+crown_aware,Crown-aware,hoarding,Hoarding,bottleneck_priority_bilateral_trade,Bottleneck,87.54,27.755,8,10
+crown_aware,Crown-aware,hoarding,Hoarding,catch_up_bilateral_trade,Catch-up,88.855,27.64,7,8
+crown_aware,Crown-aware,hoarding,Hoarding,central_clearing,Central clearing,154.915,18.7,1,5
+crown_aware,Crown-aware,hoarding,Hoarding,central_clearing_capped,Central capped (2),125.235,21.775,3,6
+crown_aware,Crown-aware,hoarding,Hoarding,clearinghouse_bargaining,Clearinghouse,91.015,27.39,5,7
+crown_aware,Crown-aware,hoarding,Hoarding,equity_weighted_central,Equity central,153.245,16.17,2,3
+crown_aware,Crown-aware,hoarding,Hoarding,no_trade,No trade,29.455,10.875,10,1
+crown_aware,Crown-aware,hoarding,Hoarding,public_pool,Public pool,29.455,10.875,11,2
+crown_aware,Crown-aware,hoarding,Hoarding,subsidized_catch_up,Subsidized,80.715,16.185,9,4
+crown_aware,Crown-aware,mixed,Mixed,bilateral_trade,Bilateral,102.71,26.96,6,8
+crown_aware,Crown-aware,mixed,Mixed,bilateral_trade_3pass,Bilateral 3-pass,110.615,26.95,4,7
+crown_aware,Crown-aware,mixed,Mixed,bottleneck_priority_bilateral_trade,Bottleneck,102.18,27.44,7,9
+crown_aware,Crown-aware,mixed,Mixed,catch_up_bilateral_trade,Catch-up,100.26,29.075,9,10
+crown_aware,Crown-aware,mixed,Mixed,central_clearing,Central clearing,145.565,17.27,1,4
+crown_aware,Crown-aware,mixed,Mixed,central_clearing_capped,Central capped (2),119.31,22.105,3,5
+crown_aware,Crown-aware,mixed,Mixed,clearinghouse_bargaining,Clearinghouse,101.87,26.145,8,6
+crown_aware,Crown-aware,mixed,Mixed,equity_weighted_central,Equity central,142.3,14.97,2,2
+crown_aware,Crown-aware,mixed,Mixed,no_trade,No trade,29.43,10.84,11,1
+crown_aware,Crown-aware,mixed,Mixed,public_pool,Public pool,107.955,29.385,5,11
+crown_aware,Crown-aware,mixed,Mixed,subsidized_catch_up,Subsidized,74.99,15.635,10,3
+crown_aware,Crown-aware,need_based,Need-based,bilateral_trade,Bilateral,126.555,26.965,8,8
+crown_aware,Crown-aware,need_based,Need-based,bilateral_trade_3pass,Bilateral 3-pass,140.195,26.835,4,7
+crown_aware,Crown-aware,need_based,Need-based,bottleneck_priority_bilateral_trade,Bottleneck,129.655,27.995,5,10
+crown_aware,Crown-aware,need_based,Need-based,catch_up_bilateral_trade,Catch-up,126.685,28.62,7,11
+crown_aware,Crown-aware,need_based,Need-based,central_clearing,Central clearing,159.32,18.215,1,5
+crown_aware,Crown-aware,need_based,Need-based,central_clearing_capped,Central capped (2),125.955,22.42,9,6
+crown_aware,Crown-aware,need_based,Need-based,clearinghouse_bargaining,Clearinghouse,128.2,27.105,6,9
+crown_aware,Crown-aware,need_based,Need-based,equity_weighted_central,Equity central,157.21,15.52,2,3
+crown_aware,Crown-aware,need_based,Need-based,no_trade,No trade,29.455,10.875,11,2
+crown_aware,Crown-aware,need_based,Need-based,public_pool,Public pool,146.06,10.54,3,1
+crown_aware,Crown-aware,need_based,Need-based,subsidized_catch_up,Subsidized,79.775,16.195,10,4
+crown_aware,Crown-aware,selfish,Selfish,bilateral_trade,Bilateral,97.275,27.0,8,8
+crown_aware,Crown-aware,selfish,Selfish,bilateral_trade_3pass,Bilateral 3-pass,100.405,27.56,5,9
+crown_aware,Crown-aware,selfish,Selfish,bottleneck_priority_bilateral_trade,Bottleneck,97.955,26.79,7,7
+crown_aware,Crown-aware,selfish,Selfish,catch_up_bilateral_trade,Catch-up,97.155,27.775,9,10
+crown_aware,Crown-aware,selfish,Selfish,central_clearing,Central clearing,143.635,18.3,1,5
+crown_aware,Crown-aware,selfish,Selfish,central_clearing_capped,Central capped (2),118.765,22.26,4,6
+crown_aware,Crown-aware,selfish,Selfish,clearinghouse_bargaining,Clearinghouse,98.65,28.225,6,11
+crown_aware,Crown-aware,selfish,Selfish,equity_weighted_central,Equity central,139.365,15.345,2,3
+crown_aware,Crown-aware,selfish,Selfish,no_trade,No trade,29.43,10.84,11,1
+crown_aware,Crown-aware,selfish,Selfish,public_pool,Public pool,139.085,10.905,3,2
+crown_aware,Crown-aware,selfish,Selfish,subsidized_catch_up,Subsidized,73.53,15.42,10,4
+development_oriented,Development-oriented,competitive,Competitive,bilateral_trade,Bilateral,91.085,26.71,7,8
+development_oriented,Development-oriented,competitive,Competitive,bilateral_trade_3pass,Bilateral 3-pass,97.565,27.42,4,10
+development_oriented,Development-oriented,competitive,Competitive,bottleneck_priority_bilateral_trade,Bottleneck,92.005,26.235,6,7
+development_oriented,Development-oriented,competitive,Competitive,catch_up_bilateral_trade,Catch-up,90.76,28.0,8,11
+development_oriented,Development-oriented,competitive,Competitive,central_clearing,Central clearing,145.06,17.24,1,5
+development_oriented,Development-oriented,competitive,Competitive,central_clearing_capped,Central capped (2),117.91,21.92,3,6
+development_oriented,Development-oriented,competitive,Competitive,clearinghouse_bargaining,Clearinghouse,97.02,27.07,5,9
+development_oriented,Development-oriented,competitive,Competitive,equity_weighted_central,Equity central,140.4,14.72,2,3
+development_oriented,Development-oriented,competitive,Competitive,no_trade,No trade,29.36,10.785,10,1
+development_oriented,Development-oriented,competitive,Competitive,public_pool,Public pool,29.36,10.785,11,2
+development_oriented,Development-oriented,competitive,Competitive,subsidized_catch_up,Subsidized,73.285,15.405,9,4
+development_oriented,Development-oriented,cooperative,Cooperative,bilateral_trade,Bilateral,115.58,28.545,8,8
+development_oriented,Development-oriented,cooperative,Cooperative,bilateral_trade_3pass,Bilateral 3-pass,125.835,29.64,4,9
+development_oriented,Development-oriented,cooperative,Cooperative,bottleneck_priority_bilateral_trade,Bottleneck,117.59,29.705,6,10
+development_oriented,Development-oriented,cooperative,Cooperative,catch_up_bilateral_trade,Catch-up,114.045,30.33,9,11
+development_oriented,Development-oriented,cooperative,Cooperative,central_clearing,Central clearing,145.06,17.24,1,5
+development_oriented,Development-oriented,cooperative,Cooperative,central_clearing_capped,Central capped (2),117.91,21.92,5,6
+development_oriented,Development-oriented,cooperative,Cooperative,clearinghouse_bargaining,Clearinghouse,116.115,27.605,7,7
+development_oriented,Development-oriented,cooperative,Cooperative,equity_weighted_central,Equity central,140.4,14.72,3,3
+development_oriented,Development-oriented,cooperative,Cooperative,no_trade,No trade,29.36,10.785,11,1
+development_oriented,Development-oriented,cooperative,Cooperative,public_pool,Public pool,140.595,14.065,2,2
+development_oriented,Development-oriented,cooperative,Cooperative,subsidized_catch_up,Subsidized,73.285,15.405,10,4
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,bilateral_trade,Bilateral,120.62,24.94,5,10
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,bilateral_trade_3pass,Bilateral 3-pass,127.415,24.7,4,7
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,bottleneck_priority_bilateral_trade,Bottleneck,116.765,24.73,9,8
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,catch_up_bilateral_trade,Catch-up,117.4,25.255,8,11
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,central_clearing,Central clearing,146.4,17.1,1,5
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,central_clearing_capped,Central capped (2),118.19,21.515,7,6
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,clearinghouse_bargaining,Clearinghouse,119.905,24.92,6,9
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,equity_weighted_central,Equity central,144.605,15.075,2,3
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,no_trade,No trade,29.455,10.875,11,2
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,public_pool,Public pool,136.645,10.59,3,1
+development_oriented,Development-oriented,fairness_sensitive,Fairness-sensitive,subsidized_catch_up,Subsidized,74.265,15.665,10,4
+development_oriented,Development-oriented,hoarding,Hoarding,bilateral_trade,Bilateral,90.08,27.76,6,8
+development_oriented,Development-oriented,hoarding,Hoarding,bilateral_trade_3pass,Bilateral 3-pass,96.06,28.105,4,11
+development_oriented,Development-oriented,hoarding,Hoarding,bottleneck_priority_bilateral_trade,Bottleneck,89.205,27.765,8,9
+development_oriented,Development-oriented,hoarding,Hoarding,catch_up_bilateral_trade,Catch-up,89.72,27.675,7,7
+development_oriented,Development-oriented,hoarding,Hoarding,central_clearing,Central clearing,158.665,17.66,1,5
+development_oriented,Development-oriented,hoarding,Hoarding,central_clearing_capped,Central capped (2),126.855,22.085,3,6
+development_oriented,Development-oriented,hoarding,Hoarding,clearinghouse_bargaining,Clearinghouse,91.24,27.78,5,10
+development_oriented,Development-oriented,hoarding,Hoarding,equity_weighted_central,Equity central,156.475,15.755,2,3
+development_oriented,Development-oriented,hoarding,Hoarding,no_trade,No trade,29.455,10.875,10,1
+development_oriented,Development-oriented,hoarding,Hoarding,public_pool,Public pool,29.455,10.875,11,2
+development_oriented,Development-oriented,hoarding,Hoarding,subsidized_catch_up,Subsidized,80.925,16.165,9,4
+development_oriented,Development-oriented,mixed,Mixed,bilateral_trade,Bilateral,103.175,27.23,6,8
+development_oriented,Development-oriented,mixed,Mixed,bilateral_trade_3pass,Bilateral 3-pass,110.93,26.59,4,6
+development_oriented,Development-oriented,mixed,Mixed,bottleneck_priority_bilateral_trade,Bottleneck,102.885,27.785,8,9
+development_oriented,Development-oriented,mixed,Mixed,catch_up_bilateral_trade,Catch-up,102.12,29.235,9,10
+development_oriented,Development-oriented,mixed,Mixed,central_clearing,Central clearing,147.225,17.17,1,4
+development_oriented,Development-oriented,mixed,Mixed,central_clearing_capped,Central capped (2),120.03,21.715,3,5
+development_oriented,Development-oriented,mixed,Mixed,clearinghouse_bargaining,Clearinghouse,103.14,26.68,7,7
+development_oriented,Development-oriented,mixed,Mixed,equity_weighted_central,Equity central,143.915,14.73,2,2
+development_oriented,Development-oriented,mixed,Mixed,no_trade,No trade,29.395,10.805,11,1
+development_oriented,Development-oriented,mixed,Mixed,public_pool,Public pool,108.62,29.735,5,11
+development_oriented,Development-oriented,mixed,Mixed,subsidized_catch_up,Subsidized,75.355,15.685,10,3
+development_oriented,Development-oriented,need_based,Need-based,bilateral_trade,Bilateral,126.145,26.68,8,7
+development_oriented,Development-oriented,need_based,Need-based,bilateral_trade_3pass,Bilateral 3-pass,139.685,27.01,4,8
+development_oriented,Development-oriented,need_based,Need-based,bottleneck_priority_bilateral_trade,Bottleneck,129.55,28.08,5,10
+development_oriented,Development-oriented,need_based,Need-based,catch_up_bilateral_trade,Catch-up,127.045,28.65,7,11
+development_oriented,Development-oriented,need_based,Need-based,central_clearing,Central clearing,159.32,18.215,1,5
+development_oriented,Development-oriented,need_based,Need-based,central_clearing_capped,Central capped (2),125.955,22.42,9,6
+development_oriented,Development-oriented,need_based,Need-based,clearinghouse_bargaining,Clearinghouse,128.67,27.415,6,9
+development_oriented,Development-oriented,need_based,Need-based,equity_weighted_central,Equity central,157.21,15.52,2,3
+development_oriented,Development-oriented,need_based,Need-based,no_trade,No trade,29.455,10.875,11,2
+development_oriented,Development-oriented,need_based,Need-based,public_pool,Public pool,146.06,10.54,3,1
+development_oriented,Development-oriented,need_based,Need-based,subsidized_catch_up,Subsidized,79.775,16.195,10,4
+development_oriented,Development-oriented,selfish,Selfish,bilateral_trade,Bilateral,97.115,26.585,9,7
+development_oriented,Development-oriented,selfish,Selfish,bilateral_trade_3pass,Bilateral 3-pass,104.555,26.99,5,10
+development_oriented,Development-oriented,selfish,Selfish,bottleneck_priority_bilateral_trade,Bottleneck,100.145,26.85,6,9
+development_oriented,Development-oriented,selfish,Selfish,catch_up_bilateral_trade,Catch-up,99.115,27.16,8,11
+development_oriented,Development-oriented,selfish,Selfish,central_clearing,Central clearing,144.97,17.185,1,5
+development_oriented,Development-oriented,selfish,Selfish,central_clearing_capped,Central capped (2),118.605,21.855,4,6
+development_oriented,Development-oriented,selfish,Selfish,clearinghouse_bargaining,Clearinghouse,99.57,26.83,7,8
+development_oriented,Development-oriented,selfish,Selfish,equity_weighted_central,Equity central,140.69,14.8,2,3
+development_oriented,Development-oriented,selfish,Selfish,no_trade,No trade,29.36,10.785,11,2
+development_oriented,Development-oriented,selfish,Selfish,public_pool,Public pool,138.35,10.13,3,1
+development_oriented,Development-oriented,selfish,Selfish,subsidized_catch_up,Subsidized,73.605,15.36,10,4

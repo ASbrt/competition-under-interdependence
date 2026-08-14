@@ -1,0 +1,8 @@
+population,population_label,first_condition,first_condition_label,second_condition,second_condition_label,difference_definition,n_paired_seeds,mean_difference,standard_deviation,standard_error,ci95_low,ci95_high,share_first_higher
+competitive,Competitive,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-115.7,24.11342543962099,1.7050766645992208,-119.06233708720336,-112.33766291279665,0.0
+cooperative,Cooperative,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-4.465,22.786065895519897,1.611218171128564,-7.642252216770514,-1.2877477832294866,0.36
+fairness_sensitive,Fairness-sensitive,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-9.755,22.821680932898325,1.6137365345728139,-12.9372183200452,-6.572781679954801,0.325
+hoarding,Hoarding,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-129.21,23.340518396020574,1.6504238834235507,-132.46456417770258,-125.95543582229743,0.0
+mixed,Mixed,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-38.605,26.373410071395195,1.864881710449713,-42.28246569317231,-34.92753430682768,0.075
+need_based,Need-based,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-13.26,22.045006499381866,1.5588173587014431,-16.33392009178087,-10.186079908219133,0.275
+selfish,Selfish,public_pool,Public pool,central_clearing,Central clearing,public_pool_minus_central_clearing,200,-6.62,22.1954678700371,1.5694565842511368,-9.714900182229332,-3.525099817770669,0.4

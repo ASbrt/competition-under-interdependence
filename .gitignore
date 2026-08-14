@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.DS_Store
+.venv/
+venv/
+.idea/
+experiments/outputs/.internal/
+
+# Regenerable large per-round histories.
+experiments/outputs/fixed_institution/csv/round_history.csv
+experiments/outputs/composition_sweep/csv/round_history.csv
+experiments/outputs/adaptive_baselines/csv/policy_round_history.csv

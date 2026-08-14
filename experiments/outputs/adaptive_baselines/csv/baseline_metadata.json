@@ -1,0 +1,15 @@
+{
+  "model": "experiments/outputs/adaptive_planner/model/online_q_table.json",
+  "output_root": "experiments/outputs/adaptive_baselines",
+  "eval_seeds": 100,
+  "eval_seed_offset": 500000,
+  "scenario_bootstrap_draws": 2000,
+  "cluster_bootstrap_draws": 10000,
+  "policies": [
+    "frequency_informed_random",
+    "learned_q",
+    "permanent_bilateral_3pass",
+    "random_feasible",
+    "shuffled_learned_sequence"
+  ]
+}
